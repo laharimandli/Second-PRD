@@ -19,32 +19,32 @@ public class Main {
         while (day <= 7) {
 
             if (day == 1) {
-                attempted = 8;
-                solved = 6;
-                hours = 2.5;
+                attempted = 10;
+                solved = 5;
+                hours = 3.5;
             } else if (day == 2) {
                 attempted = 7;
                 solved = 5;
                 hours = 2.0;
             } else if (day == 3) {
-                attempted = 6;
-                solved = 4;
-                hours = 1.5;
-            } else if (day == 4) {
                 attempted = 9;
-                solved = 7;
+                solved = 5;
+                hours = 3.5;
+            } else if (day == 4) {
+                attempted = 5;
+                solved = 4;
                 hours = 3.0;
             } else if (day == 5) {
                 attempted = 5;
                 solved = 5;
                 hours = 2.0;
             } else if (day == 6) {
-                attempted = 8;
+                attempted = 6;
                 solved = 6;
-                hours = 2.5;
+                hours = 3.0;
             } else if (day == 7) {
                 attempted = 7;
-                solved = 4;
+                solved = 3;
                 hours = 2.0;
             }
 
