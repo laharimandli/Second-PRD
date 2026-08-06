@@ -1,14 +1,13 @@
-                         Weekly Coding Practice Tracker
+Weekly Coding Practice Tracker
 
-Objective
-Create a Java program to track coding practice for 7 days using a 'while' loop and hard-coded values.
+Objective : Create a Java program to track coding practice for 7 days using a 'while' loop and hard-coded values.
 
 Requirements
 - Store daily:
   - Problems Attempted
   - Problems Solved
   - Practice Hours
-- A day is productive if:
+  - A day is productive if:
   - Solved >= 5
   - Practice Hours >= 2
 - Weekly target: 35 solved problems.
